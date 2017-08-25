@@ -4,3 +4,5 @@
 
 Codigo desenvolvido nas aulas da PAE CM2019 de **ALGORITMOS AVANCADOS PARA COMPETICOES DE 
 PROGRAMACAO**
+
+*Aula 21/08 - Classes e Listas*
