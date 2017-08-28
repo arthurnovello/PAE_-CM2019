@@ -6,3 +6,4 @@ Codigo desenvolvido nas aulas da PAE CM2019 de **ALGORITMOS AVANCADOS PARA COMPE
 PROGRAMACAO**
 
 *Aula 21/08 - Classes e Listas*
+*Aula 28/08 - Ordenar classe*
